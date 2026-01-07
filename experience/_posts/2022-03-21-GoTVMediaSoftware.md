@@ -5,7 +5,8 @@ employer: "GoTV Media Software"
 start_date: 2018-07-20
 excerpt_separator: <!--more-->
 ---
-
+- **"Soma e Segue" TV show contestant application:**
+    - Developed for the contestants to input their answers with Flutter and RabbitMQ.
 - **Co-Lead Developer for Unitel NetShows (Mobile Video Streaming App):**
     - Led the development of Unitel NetShows, a mobile video streaming app, using .NET 6 WebAPI, .NET Identity, EF, Azure Media Services, Azure Storage, Azure App Service, and SQL Server.
     - Implemented a cross-platform frontend using Flutter for a sleek user interface.
