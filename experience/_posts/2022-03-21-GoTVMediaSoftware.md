@@ -6,7 +6,7 @@ start_date: 2018-07-20
 excerpt_separator: <!--more-->
 ---
 - **AP ENPS MOS Plugin:**
-    - Developed web plugin to integrate our Broadcasting solution into the news production system.
+    - Developed web plugin to integrate the broadcasting solution into the news production system.
 - **"Soma e Segue" TV show contestant application:**
     - Developed for the contestants to input their answers with Flutter and RabbitMQ.
 - **Co-Lead Developer for Unitel NetShows (Mobile Video Streaming App):**
